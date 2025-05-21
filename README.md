@@ -1,2 +1,9 @@
 # public-assets
-public assets
+
+
+## logo
+
+Logos are stored in the `logo` directory. Do not change the name of the files.
+
+The url link of the logo is stored on-chain in the object IdentitiesV2 for the coldkey 5CP6HRUVwiMYEvNBEyvxosBxiAhgLv4uiQ5xLigoeHuLDnTT
+Thanks to that, it is used in various websites like taostats.
