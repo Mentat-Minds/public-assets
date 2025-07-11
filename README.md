@@ -12,3 +12,7 @@ https://raw.githubusercontent.com/Mentat-Minds/public-assets/refs/heads/main/log
 
 
 Thanks to that, it is used in various websites like taostats.
+
+## html
+
+This repo stores html files.
